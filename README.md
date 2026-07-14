@@ -8,8 +8,8 @@ publicly available health data: are older adults with mobility
 difficulties more likely to have experienced a fall-related fracture,
 compared to similar peers without mobility difficulties?
 
-This project applies a matched-cohort study design — a method commonly
-used in health services and epidemiological research — to a public
+This project applies a matched-cohort study design, a method commonly
+used in health services and epidemiological research - to a public
 dataset, as a way of practicing and demonstrating applied health data
 analysis skills.
 
